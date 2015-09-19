@@ -14,7 +14,7 @@ PyData.Okinawa NEWS
 - 日本最大のPythonイベント[PyCon JP 2015](https://pycon.jp/2015/ja/)は来月です。
 - PyData.Okinawaのことを[PyCon mini Sapporo](http://sapporo.pycon.jp/2015/)で紹介していただいたようです。[@atelierhide](https://twitter.com/atelierhide)さんありがとうございます！
 - [Deep Learning Summer School 2015](https://sites.google.com/site/deeplearningsummerschool/schedule) への参加報告会を東京でやってきました。
-- [「ディープラーニングの世界最先端を探る〜Deep Learning Summer School2015 参加報告」](http://peatix.com/event/114046)　2015/09/15（火）
+  - [「ディープラーニングの世界最先端を探る〜Deep Learning Summer School2015 参加報告」](http://peatix.com/event/114046)　2015/09/15（火）
   - [Deep Learning Summer School 2015 @ Montreal （8月3日〜8月12日）](https://sites.google.com/site/deeplearningsummerschool/)の参加報告会を東京でしてきました
   - [DLSS 2015 全レクチャーのスライド](https://sites.google.com/site/deeplearningsummerschool/schedule)
   - [DLSS 2015 全レクチャーのビデオ](http://videolectures.net/deeplearning2015_montreal/)  <- 今朝、公開されたばかり
