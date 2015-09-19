@@ -12,7 +12,7 @@ by Makoto Otsuka [@makotsuka55](https://twitter.com/makotsuka55)
 PyData.Okinawa NEWS
 - いい本でました！[データサイエンティスト養成読本 機械学習入門編 (Software Design plus)](http://gihyo.jp/book/2015/978-4-7741-7631-4)
 - 日本最大のPythonイベント[PyCon JP 2015](https://pycon.jp/2015/ja/)は来月です。
-- PyData.OkinawaのオフィシャルHPができました。[@atelierhide](https://twitter.com/atelierhide)さんありがとうございます。
+- PyData.Okinawaのことを[PyCon mini Sapporo](http://sapporo.pycon.jp/2015/)で紹介していただいたようです。[@atelierhide](https://twitter.com/atelierhide)さんありがとうございます！
 - [Deep Learning Summer School 2015](https://sites.google.com/site/deeplearningsummerschool/schedule) への参加報告会を東京でやってきました。
 - [「ディープラーニングの世界最先端を探る〜Deep Learning Summer School2015 参加報告」](http://peatix.com/event/114046)　2015/09/15（火）
   - [Deep Learning Summer School 2015 @ Montreal （8月3日〜8月12日）](https://sites.google.com/site/deeplearningsummerschool/)の参加報告会を東京でしてきました
