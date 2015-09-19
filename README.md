@@ -7,7 +7,7 @@
 PyData.Okinawaについての紹介
 by Makoto Otsuka [@makotsuka55](https://twitter.com/makotsuka55)
 
-- PyData.Okinawa Meetup 005 - 01 Introduction to PyData.Okinawa.ipynb
+- [PyData.Okinawa Meetup 005 - 01 Introduction to PyData.Okinawa.ipynb](https://github.com/PyDataOkinawa/meetup005/blob/master/PyData.Okinawa%20Meetup%20005%20-%2001%20Introduction%20to%20PyData.Okinawa.ipynb)
 
 PyData.Okinawa NEWS
 - いい本でました！[データサイエンティスト養成読本 機械学習入門編 (Software Design plus)](http://gihyo.jp/book/2015/978-4-7741-7631-4)
