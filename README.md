@@ -26,3 +26,5 @@ PyData.Okinawa NEWS
 
 ## ミニハッカソン
 
+- [PyData.Okinawa Meetup 005 - 02 Mini Hackathon.ipynb](https://github.com/PyDataOkinawa/meetup005/blob/master/PyData.Okinawa%20Meetup%20005%20-%2002%20Mini%20Hackathon.ipynb)
+  - [@GoingMyWayNet](https://twitter.com/goingmywaynet)さん。発表資料をシェアしていただきありがとうございます〜。
